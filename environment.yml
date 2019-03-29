@@ -1,10 +1,14 @@
 name: data-carpentry
 channels:
   - bioconda
+  - defaults
   - conda-forge
 dependencies:
-  - fastqc=0.11.7=5
-  - trimmomatic=0.38=0
-  - bwa=0.7.17=ha92aebf_3
-  - samtools=1.9=h8ee4bcc_1
-  - bcftools=1.8=h4da6232_3 
+  - fastqc
+  - trimmomatic
+  - bwa
+  - samtools
+  - bcftools
+  - snakemake
+  - multiqc
+  - fastqc
