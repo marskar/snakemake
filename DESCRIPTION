@@ -1,0 +1,14 @@
+Package: binder
+Title: NIH Library Data Carpentry Genomics Workshop
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Martin",
+           family = "Skarzynski",
+           role = c("aut", "cre"),
+           email = "myemail@example.com")
+Description: This repo defines a computational environment that
+    contains all requirements for participating in the May 2019 NIH
+    Library Data Carpentry Genomics Workshop.
+License: MIT
+Encoding: UTF-8
+LazyData: true
