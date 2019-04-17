@@ -11,4 +11,4 @@ dependencies:
   - bcftools=1.9
   - snakemake
   - multiqc
-  - fastqc
+  - gatk4=4.1.1.0
