@@ -6,9 +6,9 @@ channels:
 dependencies:
   - fastqc
   - trimmomatic
-  - bwa
-  - samtools
-  - bcftools
+  - bwa=0.7.17
+  - samtools=1.9
+  - bcftools=1.9
   - snakemake
   - multiqc
   - fastqc
