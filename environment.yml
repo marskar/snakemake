@@ -1,4 +1,4 @@
-name: data-carpentry
+name: snakemake_class
 channels:
   - bioconda
   - defaults
