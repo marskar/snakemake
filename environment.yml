@@ -1,8 +1,8 @@
 name: snakemake_class
 channels:
+  - conda-forge
   - bioconda
   - defaults
-  - conda-forge
 dependencies:
   # - fastqc
   # - trimmomatic
