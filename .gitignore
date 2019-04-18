@@ -1,3 +1,7 @@
+Genomics_practice/.ipynb_checkpoints/
+Genomics_practice/.snakemake/
+.DS_Store
+
 # History files
 .Rhistory
 .Rapp.history

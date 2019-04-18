@@ -1,14 +1,15 @@
-name: data-carpentry
+name: snakemake_class
 channels:
+  - conda-forge
   - bioconda
   - defaults
-  - conda-forge
 dependencies:
-  - fastqc
-  - trimmomatic
-  - bwa
-  - samtools
-  - bcftools
+  # - fastqc
+  # - trimmomatic
+  - bwa=0.7.17
+  - samtools=1.9
+  - bcftools=1.9
   - snakemake
-  - multiqc
-  - fastqc
+  # - multiqc
+  - gatk4=4.1.1.0
+  - picard=2.19.0
